@@ -1,6 +1,6 @@
 # <p align="center"> matrix.js </p>
 
-```shell
+```bash
 git clone https://github.com/crnobog69/matrix.js && cd matrix.js
 ```
 
